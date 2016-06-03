@@ -1,3 +1,18 @@
 .sql {
   display: table;
 }
+.titanic {
+  float: none;
+}
+.bermuda-triangle {
+  display: none;
+}
+#europe .country { 
+  border: none;
+}
+.sniper { 
+  cursor: crosshair;
+}
+.great_wall_china {
+  border: 3px grey solid;
+}
