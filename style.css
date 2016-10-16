@@ -16,3 +16,8 @@
 .great_wall_china {
   border: 3px grey solid;
 }
+.ghost {
+  visibility: hidden;
+  opacity: 0.0;
+  display: none
+}
