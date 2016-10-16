@@ -21,3 +21,13 @@
   opacity: 0.0;
   display: none
 }
+.where_is_waldo {
+  visibility: hidden;
+}
+.police_light {
+  color: red;
+  background-color: blue;
+}
+.grain_of_sand {
+  position: relative;
+}
