@@ -31,3 +31,6 @@
 .grain_of_sand {
   position: relative;
 }
+.desk {
+  display: table;
+}
